@@ -1,3 +1,7 @@
 111
+<<<<<<< HEAD
 cccc
 2222
+=======
+xxxx
+>>>>>>> feature-A
